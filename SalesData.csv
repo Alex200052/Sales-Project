@@ -1,4 +1,4 @@
-Order ID,Order Date,Year,MONTH,Day,MonthName,Order Qty,Cost of Sales,Sales,Profit,Channel,Product Name,Manufacturer,Product Sub Category,Product Category,Region,Country
+OrderID,OrderDate,Year,MONTH,Day,MonthName,OrderQty,CostofSales,Sales,Profit,Channel,ProductName,Manufacturer,ProductSubCategory,ProductCategory,Region,Country
 7077,9/13/2017,2017,9,13,Sep,9,685,2715,2030,Store,Contoso SLR Camera M143 Grey,"Contoso, Ltd",Digital SLR Cameras,Cameras and camcorders ,Europe,Russia
 117,8/20/2016,2016,8,20,Aug,4,30,51,21,Store,Contoso 512MB MP3 Player E51 Blue,"Contoso, Ltd",MP4&MP3,Audio,Europe,Russia
 7018,7/8/2016,2016,7,8,Jul,9,92,1396,1305,Store,Contoso DVD 9-Inch Player Portable M300 Silver,"Contoso, Ltd",Movie DVD,"Music, Movies and Audio Books",Europe,Russia
